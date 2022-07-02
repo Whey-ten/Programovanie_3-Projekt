@@ -1,0 +1,10 @@
+FileCharacterMage
+1
+0
+Mage:100:10:50:6:4:6
+3
+zap:20:10:attack
+bubble:15:5:attack
+fireball:65:80:attack
+1
+staff:off:10

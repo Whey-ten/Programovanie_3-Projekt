@@ -1,0 +1,136 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Dell/Desktop/Skola/3.rocnik/Programovanie (3)/Projekt/ProjectGameFinal/ProjectGame/ProjectGame_lib/Character.cpp
+Character.h
+/cygdrive/c/Users/Dell/Desktop/Skola/3.rocnik/Programovanie (3)/Projekt/ProjectGameFinal/ProjectGame/ProjectGame_lib/Character.h
+iostream
+-
+fstream
+-
+
+/cygdrive/c/Users/Dell/Desktop/Skola/3.rocnik/Programovanie (3)/Projekt/ProjectGameFinal/ProjectGame/ProjectGame_lib/Character.h
+iostream
+-
+Klass.h
+/cygdrive/c/Users/Dell/Desktop/Skola/3.rocnik/Programovanie (3)/Projekt/ProjectGameFinal/ProjectGame/ProjectGame_lib/Klass.h
+Stats.h
+/cygdrive/c/Users/Dell/Desktop/Skola/3.rocnik/Programovanie (3)/Projekt/ProjectGameFinal/ProjectGame/ProjectGame_lib/Stats.h
+Item.h
+/cygdrive/c/Users/Dell/Desktop/Skola/3.rocnik/Programovanie (3)/Projekt/ProjectGameFinal/ProjectGame/ProjectGame_lib/Item.h
+Load.h
+/cygdrive/c/Users/Dell/Desktop/Skola/3.rocnik/Programovanie (3)/Projekt/ProjectGameFinal/ProjectGame/ProjectGame_lib/Load.h
+
+/cygdrive/c/Users/Dell/Desktop/Skola/3.rocnik/Programovanie (3)/Projekt/ProjectGameFinal/ProjectGame/ProjectGame_lib/Game.cpp
+iostream
+-
+fstream
+-
+unistd.h
+-
+Game.h
+/cygdrive/c/Users/Dell/Desktop/Skola/3.rocnik/Programovanie (3)/Projekt/ProjectGameFinal/ProjectGame/ProjectGame_lib/Game.h
+
+/cygdrive/c/Users/Dell/Desktop/Skola/3.rocnik/Programovanie (3)/Projekt/ProjectGameFinal/ProjectGame/ProjectGame_lib/Game.h
+iostream
+-
+Character.h
+/cygdrive/c/Users/Dell/Desktop/Skola/3.rocnik/Programovanie (3)/Projekt/ProjectGameFinal/ProjectGame/ProjectGame_lib/Character.h
+Map.h
+/cygdrive/c/Users/Dell/Desktop/Skola/3.rocnik/Programovanie (3)/Projekt/ProjectGameFinal/ProjectGame/ProjectGame_lib/Map.h
+Load.h
+/cygdrive/c/Users/Dell/Desktop/Skola/3.rocnik/Programovanie (3)/Projekt/ProjectGameFinal/ProjectGame/ProjectGame_lib/Load.h
+
+/cygdrive/c/Users/Dell/Desktop/Skola/3.rocnik/Programovanie (3)/Projekt/ProjectGameFinal/ProjectGame/ProjectGame_lib/Item.cpp
+Item.h
+/cygdrive/c/Users/Dell/Desktop/Skola/3.rocnik/Programovanie (3)/Projekt/ProjectGameFinal/ProjectGame/ProjectGame_lib/Item.h
+
+/cygdrive/c/Users/Dell/Desktop/Skola/3.rocnik/Programovanie (3)/Projekt/ProjectGameFinal/ProjectGame/ProjectGame_lib/Item.h
+iostream
+-
+Load.h
+/cygdrive/c/Users/Dell/Desktop/Skola/3.rocnik/Programovanie (3)/Projekt/ProjectGameFinal/ProjectGame/ProjectGame_lib/Load.h
+
+/cygdrive/c/Users/Dell/Desktop/Skola/3.rocnik/Programovanie (3)/Projekt/ProjectGameFinal/ProjectGame/ProjectGame_lib/Klass.cpp
+iostream
+-
+map
+-
+Klass.h
+/cygdrive/c/Users/Dell/Desktop/Skola/3.rocnik/Programovanie (3)/Projekt/ProjectGameFinal/ProjectGame/ProjectGame_lib/Klass.h
+
+/cygdrive/c/Users/Dell/Desktop/Skola/3.rocnik/Programovanie (3)/Projekt/ProjectGameFinal/ProjectGame/ProjectGame_lib/Klass.h
+iostream
+-
+map
+-
+vector
+-
+Spell.h
+/cygdrive/c/Users/Dell/Desktop/Skola/3.rocnik/Programovanie (3)/Projekt/ProjectGameFinal/ProjectGame/ProjectGame_lib/Spell.h
+Load.h
+/cygdrive/c/Users/Dell/Desktop/Skola/3.rocnik/Programovanie (3)/Projekt/ProjectGameFinal/ProjectGame/ProjectGame_lib/Load.h
+
+/cygdrive/c/Users/Dell/Desktop/Skola/3.rocnik/Programovanie (3)/Projekt/ProjectGameFinal/ProjectGame/ProjectGame_lib/Load.cpp
+Load.h
+/cygdrive/c/Users/Dell/Desktop/Skola/3.rocnik/Programovanie (3)/Projekt/ProjectGameFinal/ProjectGame/ProjectGame_lib/Load.h
+
+/cygdrive/c/Users/Dell/Desktop/Skola/3.rocnik/Programovanie (3)/Projekt/ProjectGameFinal/ProjectGame/ProjectGame_lib/Load.h
+iostream
+-
+
+/cygdrive/c/Users/Dell/Desktop/Skola/3.rocnik/Programovanie (3)/Projekt/ProjectGameFinal/ProjectGame/ProjectGame_lib/Map.cpp
+Map.h
+/cygdrive/c/Users/Dell/Desktop/Skola/3.rocnik/Programovanie (3)/Projekt/ProjectGameFinal/ProjectGame/ProjectGame_lib/Map.h
+iostream
+-
+fstream
+-
+
+/cygdrive/c/Users/Dell/Desktop/Skola/3.rocnik/Programovanie (3)/Projekt/ProjectGameFinal/ProjectGame/ProjectGame_lib/Map.h
+iostream
+-
+map
+-
+Room.h
+/cygdrive/c/Users/Dell/Desktop/Skola/3.rocnik/Programovanie (3)/Projekt/ProjectGameFinal/ProjectGame/ProjectGame_lib/Room.h
+
+/cygdrive/c/Users/Dell/Desktop/Skola/3.rocnik/Programovanie (3)/Projekt/ProjectGameFinal/ProjectGame/ProjectGame_lib/Room.cpp
+Room.h
+/cygdrive/c/Users/Dell/Desktop/Skola/3.rocnik/Programovanie (3)/Projekt/ProjectGameFinal/ProjectGame/ProjectGame_lib/Room.h
+
+/cygdrive/c/Users/Dell/Desktop/Skola/3.rocnik/Programovanie (3)/Projekt/ProjectGameFinal/ProjectGame/ProjectGame_lib/Room.h
+iostream
+-
+map
+-
+vector
+-
+Character.h
+/cygdrive/c/Users/Dell/Desktop/Skola/3.rocnik/Programovanie (3)/Projekt/ProjectGameFinal/ProjectGame/ProjectGame_lib/Character.h
+Load.h
+/cygdrive/c/Users/Dell/Desktop/Skola/3.rocnik/Programovanie (3)/Projekt/ProjectGameFinal/ProjectGame/ProjectGame_lib/Load.h
+
+/cygdrive/c/Users/Dell/Desktop/Skola/3.rocnik/Programovanie (3)/Projekt/ProjectGameFinal/ProjectGame/ProjectGame_lib/Spell.cpp
+iostream
+-
+Spell.h
+/cygdrive/c/Users/Dell/Desktop/Skola/3.rocnik/Programovanie (3)/Projekt/ProjectGameFinal/ProjectGame/ProjectGame_lib/Spell.h
+
+/cygdrive/c/Users/Dell/Desktop/Skola/3.rocnik/Programovanie (3)/Projekt/ProjectGameFinal/ProjectGame/ProjectGame_lib/Spell.h
+iostream
+-
+Load.h
+/cygdrive/c/Users/Dell/Desktop/Skola/3.rocnik/Programovanie (3)/Projekt/ProjectGameFinal/ProjectGame/ProjectGame_lib/Load.h
+
+/cygdrive/c/Users/Dell/Desktop/Skola/3.rocnik/Programovanie (3)/Projekt/ProjectGameFinal/ProjectGame/ProjectGame_lib/Stats.cpp
+Stats.h
+/cygdrive/c/Users/Dell/Desktop/Skola/3.rocnik/Programovanie (3)/Projekt/ProjectGameFinal/ProjectGame/ProjectGame_lib/Stats.h
+
+/cygdrive/c/Users/Dell/Desktop/Skola/3.rocnik/Programovanie (3)/Projekt/ProjectGameFinal/ProjectGame/ProjectGame_lib/Stats.h
+

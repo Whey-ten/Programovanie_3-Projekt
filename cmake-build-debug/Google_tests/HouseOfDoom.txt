@@ -1,0 +1,10 @@
+HouseOfDoom
+3
+Cellar,hidden,0,2@sword:off:20@shield:def:10
+Kitchen,full,3@enemy1;1;0;Mage:100:10:50:6:4:6;0;0@enemy2;1;0;Mage:100:10:50:6:4:6;0;0@enemy3;1;0;Mage:100:10:50:6:4:6;0;0,0
+Attic,full,1@Boss;1;0;Warrior:100:20:20:10:5:2;0;0,0
+4
+Attic,Kitchen
+Cellar,Kitchen
+Kitchen,Cellar
+Kitchen,Attic

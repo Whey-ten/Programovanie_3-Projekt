@@ -1,0 +1,2 @@
+/usr/bin/ar.exe qc libProjectGame_lib.a  CMakeFiles/ProjectGame_lib.dir/Character.cpp.o CMakeFiles/ProjectGame_lib.dir/Klass.cpp.o CMakeFiles/ProjectGame_lib.dir/Hra.cpp.o
+/usr/bin/ranlib.exe libProjectGame_lib.a

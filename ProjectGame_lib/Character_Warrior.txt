@@ -1,0 +1,14 @@
+FileCharacterWarrior
+1
+0
+Warrior:100:20:20:10:5:2
+3
+chop:20:10:attack
+kick:15:5:attack
+internalcombustion:50:80:attack
+3
+ring:def:1
+shoes:def:3
+cape:def:1
+
+
